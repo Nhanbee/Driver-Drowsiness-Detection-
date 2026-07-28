@@ -1,5 +1,10 @@
-*.dat
+﻿*.dat
 *.zip
 *.rar
 datasets/
 note.txt
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+venv/
